@@ -46,8 +46,9 @@
 .
 ├── SKILL.md              # Claude Code Skill 规范文档
 ├── reference.html        # 标准实现示例（含 3 张横版 + 2 张瀑布流）
-├── badge.png             # 徽标图（如"绝对值"）
-├── shoe.png              # 商品图占位
+├── image/
+│   ├── badge.png         # 徽标图（如"绝对值"）
+│   └── shoe.png          # 商品图占位
 ├── fonts/
 │   └── price.ttf         # 价格特殊字体
 └── icons/
